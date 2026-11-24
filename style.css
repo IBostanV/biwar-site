@@ -1,0 +1,12 @@
+/* BiWar support pages: the game's dark navy and neon cyan, readable on phones */
+:root { color-scheme: dark; }
+body { margin: 0; background: #0b1020; color: #dbe4f0; font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+h1 { color: #fff; font-size: 2rem; margin: 0 0 4px; }
+h2 { color: #67e8f9; font-size: 1.25rem; margin: 2em 0 .5em; }
+h3 { color: #fff; font-size: 1.05rem; margin: 1.5em 0 .3em; }
+a { color: #22d3ee; }
+ul { padding-left: 1.2em; }
+li { margin: .3em 0; }
+.muted { color: #8b9bb4; }
+.nav { margin: 0 0 24px; }
